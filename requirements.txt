@@ -1,4 +1,3 @@
 numpy
 jax
-ot
-jax-ott
+ott-jax
