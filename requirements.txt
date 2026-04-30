@@ -1,0 +1,4 @@
+numpy
+jax
+ot
+jax-ott
